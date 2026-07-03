@@ -18,3 +18,4 @@ This directory prints basic shell scripts for the Holberton School curriculum
 * `14-copy_html`: Copies all HTML files to the parent directory only if they are newer or don't exist there.
 * `15-lets_move`: Moves all files beginning with an uppercase letter to the directory `/tmp/u`.
 * `16-clean_emacs`: Deletes all files in the current working directory that end with the character `~`.
+* `17-tree`: Creates a directory structure `welcome/to/school` using exactly two spaces.
