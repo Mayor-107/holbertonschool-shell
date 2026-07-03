@@ -11,3 +11,4 @@ This directory prints basic shell scripts for the Holberton School curriculum
 * `7-movethatfile`: Moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 * `8-firstdelete`: Deletes the file `betty` from `/tmp/my_first_directory`.
 * `9-firstdirdeletion`: Deletes the directory `my_first_directory` from the `/tmp` directory.
+* `10-back`: Changes the working directory to the previous one.
