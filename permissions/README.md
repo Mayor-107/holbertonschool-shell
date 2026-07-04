@@ -10,3 +10,4 @@
 * `8-James Bond`: Sets file permissions so the owner and group have no permissions, and others have full permissions (007).
 * `9-John Doe`: Sets the permissions of the file hello to 753 (-rwxr-x-wx) without using commas.
 * `10-mirror_permissions` Sets the mode of the file hello to match the mode of the file olleh using a reference flag.
+* `11-directories_permissions`: Adds execute permission to all subdirectories of the current directory for the owner, group, and others, without changing regular files.
