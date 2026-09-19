@@ -15,3 +15,4 @@ This directory contains shell scripts for basic Linux navigation and commands:
 * `10-back`: Changes the working directory to the previous working directory.
 * `11-lists`: Lists all files in the current directory, parent directory, and /boot directory in long format.
 * `12-file_type`: Prints the file type of the file named iamafile in the /tmp directory.
+* `13-symbolic_link`: Creates a symbolic link to /bin/ls named __ls__.
