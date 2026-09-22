@@ -13,3 +13,4 @@ This directory contains bash scripts for learning Linux permissions and useriden
 * `8-James_Bond`: Sets the permissions of the file `hello` to no permissions for owner and group, and full permissions (`rwx`) for other users (`007`).
 * `9-John_Doe`: Sets the mode of the file `hello` to `-rwxr-x-wx` (`753`).
 * `10-mirror_permissions`: Sets the permission mode of the file `hello` to match the permission mode of the file `olleh`.
+* `11-directories_permissions`: Adds execute permission to all subdirectories of the current directory for owner, group, and others without altering regular files.
