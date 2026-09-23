@@ -16,3 +16,4 @@ This directory contains bash scripts for learning Linux permissions and user ide
 * `11-directories_permissions`: Adds execute permission to all subdirectories of the current directory for owner, group, and others without altering regular files.
 * `12-directory_permissions`: Creates a directory called `my_dir` with permissions 751 in the working directory.
 * `13-change_group`: Changes the group owner to `school` for the file `hello`.
+* `14-change_owner_and_group`: Changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
