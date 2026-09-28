@@ -9,4 +9,5 @@ This directory contains Bash scripts for practicing shell I/O redirections, pipe
 * `4-lastlines`: Displays the last 10 lines of /etc/passwd.
 * `5-firstlines`: Displays the first 10 ines of /etc/passwd.
 * `6-third_line`: Displays the third line of the file iacta located in the working directory.
-* `7-file`: Creates a file with a complex name containing special characters and writes "Best School" into it. 
+* `7-file`: Creates a file with a complex name containing special characters and writes "Best School" into it.
+* `8-cwd_state`: Writes into the file `ls_cwd_content` the result of the command ls -la. 
