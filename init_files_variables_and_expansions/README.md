@@ -8,3 +8,4 @@ This directory contains Bash scripts for practicing shell init files, variables,
 * `3-paths`: Countes the number of directories in the PATH.
 * `4-global_variables`: Lists environmental variables.
 * `5-local_variables`: Lists all local variables and environment variables, and functions.
+* `6-create_local_variable`: Creates a new local variable.
