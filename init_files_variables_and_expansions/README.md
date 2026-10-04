@@ -12,4 +12,5 @@ This directory contains Bash scripts for practicing shell init files, variables,
 * `7-create_global_variable`: Creates a new global variable.
 * `8-true_knowledge`: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 * `9-divide_and_rule`: Prints the result of POWER divided by DIVIDE, followed by a new line.
-* `10-love_exponent_breath`: Displays the result of BREATH to the power LOVE. 
+* `10-love_exponent_breath`: Displays the result of BREATH to the power LOVE.
+* `11-binary_to_decimal`: Converts a number from base 2 to base 10.
