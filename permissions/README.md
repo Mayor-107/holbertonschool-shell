@@ -9,3 +9,4 @@ This directory contains bash scripts for learning Linux permissions and user ide
 * `4-empty`: Creates an empty file called `hello`.
 * `5-execute`: Adds execute permission to the owner of the file `hello`.
 * `6-multiple_permissions`: Adds execute permissions to the owner, group owner, and read permission to other users, for the file `hello`.
+* `7-everybody`: Adds execution permission to the owner, group owner, and other users for the file `hello`. 
