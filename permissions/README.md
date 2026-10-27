@@ -15,3 +15,4 @@ This directory contains bash scripts for learning Linux permissions and user ide
 * `10-mirror_permissions`: Sets the permission mode of the file `hello` to match the permission mode of the file `olleh`
 * `11-directories_permissions`: Adds execute permission to all subdirectories of the current directory for owner, group, and others without altering regular files.
 * `12-directory_permissions`: Creates a directory called `my_dir` with permissions `751` in the working directory.
+* `13-change_group`: Changes the group owner to `school` for the file `hello`.
