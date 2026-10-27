@@ -18,4 +18,5 @@ This directory contains shell scripts for basic Linux navigation and commands:
 * `13-symbolic_link`: Creates a symbolic link to /bin/ls named ls.
 * `14-copy_html`: Copies all .html files from the current directory to the parent directory if they are newer or do not exist.
 * `15-lets_move`: Moves all files beginning with an uppercase letter to the directory /tmp/u.
-* `16-clean_emacs`: Deletes all files in the current directory that end with the character ~.   
+* `16-clean_emacs`: Deletes all files in the current directory that end with the character ~.
+* `17-tree`: Creates nested directories welcome/to/school in the current working directory.   
