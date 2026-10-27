@@ -10,4 +10,5 @@ This directory contains bash scripts for learning Linux permissions and user ide
 * `5-execute`: Adds execute permission to the owner of the file `hello`.
 * `6-multiple_permissions`: Adds execute permissions to the owner, group owner, and read permission to other users, for the file `hello`.
 * `7-everybody`: Adds execution permission to the owner, group owner, and other users for the file `hello`.
-* `8-James_Bond`: Sets the permissions of the file hello to no permissions for owner and group, and full permissions (rwx) for other users (007). 
+* `8-James_Bond`: Sets the permissions of the file `hello` to no permissions for owner and group, and full permissions (`rwx`) for other users (`007`).
+* `9-John_Doe`: Sets the mode of the file `hello` to `-rwxr-x-wx` (`753`). 
