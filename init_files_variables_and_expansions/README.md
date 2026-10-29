@@ -16,3 +16,4 @@ This directory contains Bash scripts for practicing shell init files, variables,
 * `11-binary_to_decimal`: Converts a number from base 2 to base 10.
 * `12-combinations`: Prints all possible combinations of two letters, except oo.
 * `13-print_float`: Prints a number with two decimal places, followed by a new line.
+* `14-decimal_to_hexadecimal`: Converts a number from base 10 to base 16.
